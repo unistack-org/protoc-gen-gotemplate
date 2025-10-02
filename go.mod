@@ -1,7 +1,7 @@
 module moul.io/protoc-gen-gotemplate
 
 require (
-	github.com/Masterminds/goutils v1.1.0 // indirect
+	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/go-git/go-git/v5 v5.2.0
